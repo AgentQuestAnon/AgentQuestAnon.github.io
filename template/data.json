@@ -45,7 +45,51 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
+        },
+        {
+          "babaisai": [
+            37.5,
+            4.419417382415922,
+            120
+          ],
+          "textworld": [
+            42.05882352941177,
+            5.406976071199611,
+            60
+          ],
+          "minihack": [
+            15.0,
+            5.645794895318107,
+            40
+          ],
+          "nle": [
+            0.5821797203427749,
+            0.5207173719233047,
+            5
+          ],
+          "crafter": [
+            32.72727272727273,
+            3.2012394293925466,
+            10
+          ],
+          "babyai": [
+            52.0,
+            7.065408693062279,
+            50
+          ],
+          "average": [
+            29.978045996171215,
+            1.9796234258919423
+          ],
+          "name": "Claude-3.5-Sonnet",
+          "folder": "submissions/LLM/20241103_Claude-3.5-Sonnet",
+          "date": "2024-11-11",
+          "trajs": true,
+          "site": null,
+          "verified": true,
+          "oss": true,
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "minihack": [
@@ -89,7 +133,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "babaisai": [
@@ -133,7 +177,95 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
+        },
+        {
+          "babaisai": [
+            12.5,
+            3.0190368221228,
+            120
+          ],
+          "textworld": [
+            3.9215686274509802,
+            1.0125446656751418,
+            30
+          ],
+          "minihack": [
+            0.0,
+            0.0,
+            40
+          ],
+          "nle": [
+            0.0,
+            0.0,
+            5
+          ],
+          "crafter": [
+            16.363636363636363,
+            3.0287874998104876,
+            10
+          ],
+          "babyai": [
+            14.000000000000002,
+            4.907137658554117,
+            50
+          ],
+          "average": [
+            7.797534165181225,
+            1.0978942439497628
+          ],
+          "name": "Qwen-2.5-7B-it",
+          "folder": "submissions/LLM/20241115_naive-Qwen2.5-7B-it",
+          "date": "2024-11-17",
+          "trajs": true,
+          "site": null,
+          "verified": true,
+          "oss": true,
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
+        },
+        {
+          "babaisai": [
+            7.563025210084033,
+            2.4238020876994986,
+            119
+          ],
+          "babyai": [
+            4.0,
+            2.771281292110205,
+            50
+          ],
+          "minihack": [
+            2.5,
+            2.4685522072664368,
+            40
+          ],
+          "nle": [
+            0.0,
+            0.0,
+            5
+          ],
+          "textworld": [
+            1.5686274509803921,
+            0.6159068752622091,
+            30
+          ],
+          "crafter": [
+            6.363636363636363,
+            1.7248787237282064,
+            10
+          ],
+          "average": [
+            3.665881504116798,
+            0.7993593693789691
+          ],
+          "name": "Qwen2-VL-7B-it",
+          "folder": "submissions/LLM/20241115_naive-Qwen2-VL-7B-instruct",
+          "date": "2024-11-18",
+          "trajs": false,
+          "site": null,
+          "verified": true,
+          "oss": true,
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "babaisai": [
@@ -177,7 +309,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "minihack": [
@@ -221,7 +353,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "minihack": [
@@ -265,7 +397,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "babaisai": [
@@ -309,7 +441,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "minihack": [
@@ -353,7 +485,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "minihack": [
@@ -397,95 +529,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
-        },
-        {
-          "babaisai": [
-            16.23931623931624,
-            3.4096597719975903,
-            117
-          ],
-          "textworld": [
-            3.9215686274509802,
-            1.0125446656751418,
-            30
-          ],
-          "minihack": [
-            2.5,
-            2.4685522072664368,
-            40
-          ],
-          "nle": [
-            0.0,
-            0.0,
-            5
-          ],
-          "crafter": [
-            5.909090909090908,
-            1.1226444577480428,
-            10
-          ],
-          "babyai": [
-            12.0,
-            4.595650117230426,
-            50
-          ],
-          "average": [
-            6.761662629309688,
-            1.0688143358059885
-          ],
-          "name": "Qwen-2-7B-it",
-          "folder": "submissions/LLM/20241113_naive-Qwen2-7B-Instruct",
-          "date": "2024-11-14",
-          "trajs": true,
-          "site": null,
-          "verified": true,
-          "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
-        },
-        {
-          "babaisai": [
-            37.5,
-            4.419417382415922,
-            120
-          ],
-          "textworld": [
-            42.05882352941177,
-            5.406976071199611,
-            60
-          ],
-          "minihack": [
-            15.0,
-            5.645794895318107,
-            40
-          ],
-          "nle": [
-            0.5821797203427749,
-            0.5207173719233047,
-            5
-          ],
-          "crafter": [
-            32.72727272727273,
-            3.2012394293925466,
-            10
-          ],
-          "babyai": [
-            52.0,
-            7.065408693062279,
-            50
-          ],
-          "average": [
-            29.978045996171215,
-            1.9796234258919423
-          ],
-          "name": "Claude-3.5-Sonnet",
-          "folder": "submissions/LLM/20241115_Claude-3.5-Sonnet",
-          "date": "2024-11-11",
-          "trajs": true,
-          "site": null,
-          "verified": true,
-          "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "minihack": [
@@ -529,7 +573,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "minihack": [
@@ -573,7 +617,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "babaisai": [
@@ -617,13 +661,52 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         }
       ]
     },
     {
       "name": "VLM",
       "results": [
+        {
+          "babaisai": [
+            34.45378151260504,
+            4.3563101057350435,
+            119
+          ],
+          "minihack": [
+            22.5,
+            6.602556323122129,
+            40
+          ],
+          "nle": [
+            1.1553688988639113,
+            0.423598115933611,
+            5
+          ],
+          "crafter": [
+            37.272727272727266,
+            3.1360342383018796,
+            10
+          ],
+          "babyai": [
+            50.0,
+            7.0710678118654755,
+            50
+          ],
+          "average": [
+            29.076375536839244,
+            2.2143652259277684
+          ],
+          "name": "Claude-3.5-Sonnet",
+          "folder": "submissions/VLM/20241103_Claude-3.5-Sonnet",
+          "date": "2024-11-11",
+          "trajs": true,
+          "site": null,
+          "verified": true,
+          "oss": true,
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
+        },
         {
           "minihack": [
             2.5,
@@ -661,7 +744,51 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
+        },
+        {
+          "babaisai": [
+            11.864406779661017,
+            2.976854968958091,
+            118
+          ],
+          "babyai": [
+            2.0,
+            1.9798989873223312,
+            50
+          ],
+          "minihack": [
+            5.0,
+            3.446012188022554,
+            40
+          ],
+          "nle": [
+            0.0,
+            0.0,
+            5
+          ],
+          "textworld": [
+            1.9607843137254901,
+            0.7509232217696767,
+            30
+          ],
+          "crafter": [
+            5.454545454545454,
+            0.8624393618641033,
+            10
+          ],
+          "average": [
+            4.3799560913219935,
+            0.8492538039049989
+          ],
+          "name": "Qwen2-VL-7B-it",
+          "folder": "submissions/VLM/20241115_naive-Qwen2-VL-7B-instruct",
+          "date": "2024-11-18",
+          "trajs": false,
+          "site": null,
+          "verified": true,
+          "oss": true,
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "minihack": [
@@ -700,7 +827,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "minihack": [
@@ -739,7 +866,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "babaisai": [
@@ -778,46 +905,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
-        },
-        {
-          "babaisai": [
-            34.45378151260504,
-            4.3563101057350435,
-            119
-          ],
-          "minihack": [
-            22.5,
-            6.602556323122129,
-            40
-          ],
-          "nle": [
-            1.1553688988639113,
-            0.423598115933611,
-            5
-          ],
-          "crafter": [
-            37.272727272727266,
-            3.1360342383018796,
-            10
-          ],
-          "babyai": [
-            50.0,
-            7.0710678118654755,
-            50
-          ],
-          "average": [
-            29.076375536839244,
-            2.2143652259277684
-          ],
-          "name": "Claude-3.5-Sonnet",
-          "folder": "submissions/VLM/20241115_Claude-3.5-Sonnet",
-          "date": "2024-11-11",
-          "trajs": true,
-          "site": null,
-          "verified": true,
-          "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "minihack": [
@@ -856,7 +944,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "minihack": [
@@ -895,7 +983,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         },
         {
           "minihack": [
@@ -934,7 +1022,7 @@
           "site": null,
           "verified": true,
           "oss": true,
-          "org_logo": "https://github.com/AgentQuest-ai.png?size=200"
+          "org_logo": "https://github.com/balrog-ai.png?size=200"
         }
       ]
     }
